@@ -1,10 +1,9 @@
 <div align="center">
 <h1>✨ Hi there! ✨</h1>
-
 <div width="400px" heigth="300px">
 <img src="./cat.svg">
 </div>
-
+<img src="https://komarev.com/ghpvc/?username=your-Rapid-Dee&color=dc143c">
 </div>
 
 
