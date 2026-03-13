@@ -12,4 +12,34 @@
    <line x1="145" x2="45" y1="200" y2="202" stroke="#fff" stroke-width="2" />
     <line x1="250" x2="350" y1="185" y2="180" stroke="#fff" stroke-width="2" />
    <line x1="255" x2="355" y1="200" y2="202" stroke="#fff" stroke-width="2" />
-</svg> 
+   <circle r="65" cx="100" cy="100" fill="#af0" />
+   <circle r="65" cx="300" cy="100" fill="#af0" />
+   
+   
+   <circle r="55" cx="88" cy="100" fill="#000">
+    <animateMotion
+      dur="4s"
+      repeatCount="indefinite"
+      path="M0,0 C0,0 20,15 18,5 C18 -5 0,10 0,0 z" />
+   </circle>
+   <circle r="55" cx="298" cy="100" fill="#000">
+   <animateMotion
+      dur="4s"
+      repeatCount="indefinite"
+      path="M0,0 C0,0 20,15 18,5 C18 -5 0,10 0,0 z" />
+   </circle>
+   
+   <circle r="5" cx="120" cy="80" fill="#fff">
+    <animateMotion
+      dur="4s"
+      repeatCount="indefinite"
+      path="M0,0 C0,0 20,15 18,5 C18 -5 0,10 0,0 z" />
+   </circle>
+   <circle r="5" cx="278" cy="80" fill="#fff">
+   <animateMotion
+      dur="4s"
+      repeatCount="indefinite"
+      path="M0,0 C0,0 20,15 18,5 C18 -5 0,10 0,0 z" />
+   </circle>
+
+</svg>
