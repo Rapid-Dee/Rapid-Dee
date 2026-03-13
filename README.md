@@ -10,7 +10,7 @@
 
 ## 👽 About Me
 
-> I started my journey in the IT world in 2018-2019, when I first wanted to try to create my own game. I didn't know anything then. Now a lot of time has passed since that moment, and what have I not had time to try! :3
+> I started my journey in the IT world in 2018-2019, when I first wanted to try to create my own game. I didn't know anything then. Over time I have tried many things! :3
 
 > But not AI. Somehow...
 
